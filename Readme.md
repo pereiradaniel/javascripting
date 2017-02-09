@@ -10,6 +10,7 @@ This tutorial is very good introduction for beginners to Javascript, with some c
 
 # Where to find more Nodeschool tutorials
 
+My [Learnyounode][learnYouNodeLink] solutions git repo.
 [Nodeschool][nodeSchoolTutorials]
 
 
@@ -26,3 +27,4 @@ I am a computer programmer from Scarborough, Ontario.  My interest is in the Rai
 [youtubelink]: <https://www.youtube.com/c/danielpaulgrechpereira>
 [linkedinlink]: <https://ca.linkedin.com/in/danielpaulpereira>
 [nodeSchoolTutorials]: <https://nodeschool.io/#workshoppers>
+[learnYouNodeLink]: <https://github.com/pereiradaniel/learnyounode>
