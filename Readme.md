@@ -2,6 +2,7 @@
 
 These are my solutions for the Learnyounode tutorial available [here][javacsriptingLink].  In the comments, there are several solutions and the official solution.  The blog posts have reference links to the relevant Node and Javascript docs.
 
+![Screenshot](/screenshot.png)
 
 #  Who this will help?
 
@@ -22,9 +23,17 @@ I am a computer programmer from Scarborough, Ontario.  My interest is in the Rai
 > Follow my [blog][bloglink] for updates on this tutorial and any upcoming tutorial videos.
 > Visit my [LinkedIn][linkedinlink] profile.
 
+
+# Solutions
+
+  1. [Introduction][introductionSrcLnk]
+
+
 [javascriptingLink]: <https://github.com/workshopper/javascripting>
 [bloglink]: <https://medium.com/coding-and-web-development/learnyounode-92487f382e01#.4xabu4beh>
 [youtubelink]: <https://www.youtube.com/c/danielpaulgrechpereira>
 [linkedinlink]: <https://ca.linkedin.com/in/danielpaulpereira>
 [nodeSchoolTutorials]: <https://nodeschool.io/#workshoppers>
 [learnYouNodeLink]: <https://github.com/pereiradaniel/learnyounode>
+
+[introductionSrcLnk]: <https://github.com/pereiradaniel/javascripting/blob/master/introduction.js>
