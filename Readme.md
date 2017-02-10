@@ -1,4 +1,5 @@
 # Javascripting Solutions :innocent:
+## [Solutions][linkToSolutions]
 
 These are my solutions for the Learnyounode tutorial available [here][javacsriptingLink].  In the comments, there are several solutions and the official solution.  The blog posts have reference links to the relevant Node and Javascript docs.
 
@@ -36,4 +37,5 @@ I am a computer programmer from Scarborough, Ontario.  My interest is in the Rai
 [nodeSchoolTutorials]: <https://nodeschool.io/#workshoppers>
 [learnYouNodeLink]: <https://github.com/pereiradaniel/learnyounode>
 
+[linkToSolutions]: <https://github.com/pereiradaniel/javascripting#solutions-bulb>
 [introductionSrcLnk]: <https://github.com/pereiradaniel/javascripting/blob/master/introduction.js>
