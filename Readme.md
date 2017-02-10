@@ -1,21 +1,21 @@
-# Javascripting Solutions
+# Javascripting Solutions :innocent:
 
 These are my solutions for the Learnyounode tutorial available [here][javacsriptingLink].  In the comments, there are several solutions and the official solution.  The blog posts have reference links to the relevant Node and Javascript docs.
 
 ![Screenshot](/screenshot.png)
 
-#  Who this will help?
+#  Who this will help? :smile:
 
 This tutorial is very good introduction for beginners to Javascript, with some comfort using the command line, and possibly git for saving your answers online.
 
 
-# Where to find more Nodeschool tutorials
+# Where to find more Nodeschool tutorials :computer:
 
 My [Learnyounode][learnYouNodeLink] solutions git repo.
 [Nodeschool][nodeSchoolTutorials]
 
 
-# About Daniel
+# About Daniel :godmode:
 
 I am a computer programmer from Scarborough, Ontario.  My interest is in the Rails framework and Node, and full-stack multi platform web development.
 
@@ -24,9 +24,9 @@ I am a computer programmer from Scarborough, Ontario.  My interest is in the Rai
 > Visit my [LinkedIn][linkedinlink] profile.
 
 
-# Solutions
+# Solutions :bulb:
 
-  1. [Introduction][introductionSrcLnk]
+  1. [Introduction][introductionSrcLnk] /introduction.js
 
 
 [javascriptingLink]: <https://github.com/workshopper/javascripting>
