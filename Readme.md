@@ -12,7 +12,7 @@ This tutorial is very good introduction for beginners to Javascript, with some c
 # Where to find more Nodeschool tutorials :computer:
 
 My [Learnyounode][learnYouNodeLink] solutions git repo.
-[Nodeschool][nodeSchoolTutorials]
+More Nodeschool [tutorials][nodeSchoolTutorials].
 
 
 # About Daniel :godmode:
