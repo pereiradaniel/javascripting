@@ -27,7 +27,7 @@ I am a computer programmer from Scarborough, Ontario.  My interest is in the Rai
 # Solutions :bulb:
 
   1. [Introduction][introductionSrcLnk] /introduction.js
-
+  2. [Variables][variablesLink] /variables.js
 
 [javascriptingLink]: <https://github.com/workshopper/javascripting>
 [bloglink]: <https://medium.com/coding-and-web-development/learnyounode-92487f382e01#.4xabu4beh>
@@ -38,3 +38,4 @@ I am a computer programmer from Scarborough, Ontario.  My interest is in the Rai
 
 [linkToSolutions]: <https://github.com/pereiradaniel/javascripting#solutions-bulb>
 [introductionSrcLnk]: <https://github.com/pereiradaniel/javascripting/blob/master/introduction.js>
+[variablesLink]: <https://github.com/pereiradaniel/javascripting/blob/master/variable.js>
