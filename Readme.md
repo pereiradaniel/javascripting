@@ -26,8 +26,13 @@ I am a computer programmer from Scarborough, Ontario.  My interest is in the Rai
 
 # Solutions :bulb:
 
-  1. [Introduction][introductionSrcLnk] /introduction.js
+  1. [Introduction][introductionSrcLink] /introduction.js
   2. [Variables][variablesLink] /variables.js
+  3. [Strings][stringsLnk]
+  4. [String Length][stringLengthLink]
+  5. [Revising Strings][revisingStringsLink]
+  6. [Numbers][numbersLink]
+  7. [Rounding Numbers][roundingNumbersLink]
 
 [javascriptingLink]: <https://github.com/workshopper/javascripting>
 [bloglink]: <https://medium.com/coding-and-web-development/learnyounode-92487f382e01#.4xabu4beh>
@@ -37,5 +42,10 @@ I am a computer programmer from Scarborough, Ontario.  My interest is in the Rai
 [learnYouNodeLink]: <https://github.com/pereiradaniel/learnyounode>
 
 [linkToSolutions]: <https://github.com/pereiradaniel/javascripting#solutions-bulb>
-[introductionSrcLnk]: <https://github.com/pereiradaniel/javascripting/blob/master/introduction.js>
+[introductionSrcLink]: <https://github.com/pereiradaniel/javascripting/blob/master/introduction.js>
 [variablesLink]: <https://github.com/pereiradaniel/javascripting/blob/master/variable.js>
+[stringsLink]: <https://github.com/pereiradaniel/javascripting/blob/master/strings.js>
+[stringLengthLink]: <https://github.com/pereiradaniel/javascripting/blob/master/string-length.js>
+[revisingStringsLink]: <https://github.com/pereiradaniel/javascripting/blob/master/revising-strings.js>
+[numbersLink]: <https://github.com/pereiradaniel/javascripting/blob/master/numbers.js>
+[roundingNumbersLink]: <https://github.com/pereiradaniel/javascripting/blob/master/rounding-numbers.js>
