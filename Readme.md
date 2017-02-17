@@ -26,13 +26,16 @@ I am a computer programmer from Scarborough, Ontario.  My interest is in the Rai
 
 # Solutions :bulb:
 
-  1. [Introduction][introductionSrcLink] /introduction.js
-  2. [Variables][variablesLink] /variables.js
-  3. [Strings][stringsLnk]
-  4. [String Length][stringLengthLink]
-  5. [Revising Strings][revisingStringsLink]
-  6. [Numbers][numbersLink]
-  7. [Rounding Numbers][roundingNumbersLink]
+   1. [Introduction][introductionSrcLink] /introduction.js
+   2. [Variables][variablesLink] /variables.js
+   3. [Strings][stringsLnk]
+   4. [String Length][stringLengthLink]
+   5. [Revising Strings][revisingStringsLink]
+   6. [Numbers][numbersLink]
+   7. [Rounding Numbers][roundingNumbersLink]
+   8. [Number to String][numberToStringLink]
+   9. [If Statement][ifStatementLink]
+  10. [For Loop][forLoopLink]
 
 [javascriptingLink]: <https://github.com/workshopper/javascripting>
 [bloglink]: <https://medium.com/coding-and-web-development/learnyounode-92487f382e01#.4xabu4beh>
@@ -49,3 +52,6 @@ I am a computer programmer from Scarborough, Ontario.  My interest is in the Rai
 [revisingStringsLink]: <https://github.com/pereiradaniel/javascripting/blob/master/revising-strings.js>
 [numbersLink]: <https://github.com/pereiradaniel/javascripting/blob/master/numbers.js>
 [roundingNumbersLink]: <https://github.com/pereiradaniel/javascripting/blob/master/rounding-numbers.js>
+[numberToStringLink]: <https://github.com/pereiradaniel/javascripting/blob/master/number-to-string.js>
+[ifStatementLink]: <https://github.com/pereiradaniel/javascripting/blob/master/if-statement.js>
+[forLoopLink]: <https://github.com/pereiradaniel/javascripting/blob/master/for-loop.js>
