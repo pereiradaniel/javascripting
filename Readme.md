@@ -36,6 +36,9 @@ I am a computer programmer from Scarborough, Ontario.  My interest is in the Rai
    8. [Number to String][numberToStringLink]
    9. [If Statement][ifStatementLink]
   10. [For Loop][forLoopLink]
+  11. [Arrays][arraysLink]
+  12. [Array Filtering][arrayFilteringLink]
+  13. [Accessing Array Values][accessingArrayValuesLink]
 
 [javascriptingLink]: <https://github.com/workshopper/javascripting>
 [bloglink]: <https://medium.com/coding-and-web-development/learnyounode-92487f382e01#.4xabu4beh>
@@ -55,3 +58,6 @@ I am a computer programmer from Scarborough, Ontario.  My interest is in the Rai
 [numberToStringLink]: <https://github.com/pereiradaniel/javascripting/blob/master/number-to-string.js>
 [ifStatementLink]: <https://github.com/pereiradaniel/javascripting/blob/master/if-statement.js>
 [forLoopLink]: <https://github.com/pereiradaniel/javascripting/blob/master/for-loop.js>
+[arraysLink]: <https://github.com/pereiradaniel/javascripting/blob/master/arrays.js>
+[arrayFilteringLink]: <https://github.com/pereiradaniel/javascripting/blob/master/array-filtering.js>
+[accessingArrayValuesLink]: <https://github.com/pereiradaniel/javascripting/blob/master/accessing-array-values.js>
