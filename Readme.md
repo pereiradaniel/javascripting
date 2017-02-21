@@ -39,6 +39,7 @@ I am a computer programmer from Scarborough, Ontario.  My interest is in the Rai
   11. [Arrays][arraysLink]
   12. [Array Filtering][arrayFilteringLink]
   13. [Accessing Array Values][accessingArrayValuesLink]
+  14. [Looping Through Arrays][loopingThroughArraysLink]
 
 [javascriptingLink]: <https://github.com/workshopper/javascripting>
 [bloglink]: <https://medium.com/coding-and-web-development/learnyounode-92487f382e01#.4xabu4beh>
@@ -61,3 +62,4 @@ I am a computer programmer from Scarborough, Ontario.  My interest is in the Rai
 [arraysLink]: <https://github.com/pereiradaniel/javascripting/blob/master/arrays.js>
 [arrayFilteringLink]: <https://github.com/pereiradaniel/javascripting/blob/master/array-filtering.js>
 [accessingArrayValuesLink]: <https://github.com/pereiradaniel/javascripting/blob/master/accessing-array-values.js>
+[loopingThroughArraysLink]: <https://github.com/pereiradaniel/javascripting/blob/master/looping-through-arrays.js>
