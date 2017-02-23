@@ -26,15 +26,15 @@ I am a computer programmer from Scarborough, Ontario.  My interest is in the Rai
 
 # Solutions :bulb:
 
-   1. [Introduction][introductionSrcLink] /introduction.js
-   2. [Variables][variablesLink] /variables.js
-   3. [Strings][stringsLnk]
-   4. [String Length][stringLengthLink]
-   5. [Revising Strings][revisingStringsLink]
-   6. [Numbers][numbersLink]
-   7. [Rounding Numbers][roundingNumbersLink]
-   8. [Number to String][numberToStringLink]
-   9. [If Statement][ifStatementLink]
+  1. [Introduction][introductionSrcLink] /introduction.js
+  2. [Variables][variablesLink] /variables.js
+  3. [Strings][stringsLnk]
+  4. [String Length][stringLengthLink]
+  5. [Revising Strings][revisingStringsLink]
+  6. [Numbers][numbersLink]
+  7. [Rounding Numbers][roundingNumbersLink]
+  8. [Number to String][numberToStringLink]
+  9. [If Statement][ifStatementLink]
   10. [For Loop][forLoopLink]
   11. [Arrays][arraysLink]
   12. [Array Filtering][arrayFilteringLink]
