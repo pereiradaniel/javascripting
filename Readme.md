@@ -26,9 +26,9 @@ I am a computer programmer from Scarborough, Ontario.  My interest is in the Rai
 
 # Solutions :bulb:
 
-  1. [Introduction][introductionSrcLink] /introduction.js
-  2. [Variables][variablesLink] /variables.js
-  3. [Strings][stringsLnk]
+  1. [Introduction][introductionSrcLink]
+  2. [Variables][variablesLink]
+  3. [Strings][stringsLink]
   4. [String Length][stringLengthLink]
   5. [Revising Strings][revisingStringsLink]
   6. [Numbers][numbersLink]
