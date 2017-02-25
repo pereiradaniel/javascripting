@@ -1,6 +1,6 @@
 # Javascripting Solutions :innocent:
 
-These are my solutions for the Learnyounode tutorial available [here][javacsriptingLink].  In the comments, there are several solutions and the official solution.  The blog posts have reference links to the relevant Node and Javascript docs.
+These are my solutions for the Learnyounode tutorial available [here][javacsriptingLink].  In the comments.  The official solutions are provided upon passing each task.  The blog posts have reference links to the relevant Node and Javascript docs.
 
 ![Screenshot](/screenshot.png)
 
